@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports,require("preact"),require("preact/hooks")):"function"==typeof define&&define.amd?define(["exports","preact","preact/hooks"],t):t((e||self).preactLib={},e.preact,e.hooks)}(this,function(e,t,o){e.PreactLib=function(){var e=o.useState("My awesome library");return t.h("div",null,e)}});
+//# sourceMappingURL=preact.lib.lib.umd.js.map

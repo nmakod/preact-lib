@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es5",
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "dist",
+    "resolveJsonModule": true,
+    "lib": ["es2017", "dom"],
+
+    "declaration": true,
+    "jsx": "react",
+    "jsxFactory": "h",
+    "allowJs": true
+  },
+  "include": ["src"]
+}

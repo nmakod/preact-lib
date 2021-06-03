@@ -1,0 +1,25 @@
+{
+  "name": "preact-lib",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.tsx",
+  "exports": "./dist/preact.lib.modern.js",
+  "main": "./dist/preact.lib.cjs",
+  "module": "./dist/preact.lib.module.js",
+  "unpkg": "./dist/preact.lib.umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "microbundle build --raw",
+    "dev": "microbundle watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "preact": "^10.5.13",
+    "microbundle": "^0.13.1"
+  },
+  "peerDependencies": {
+    "preact": "^10.5.13"
+  }
+}
