@@ -1,3 +1,3 @@
 import { h } from "preact";
-declare const PreactLib: () => h.JSX.Element;
-export { PreactLib };
+declare const PreactLibWithHook: () => h.JSX.Element;
+export { PreactLibWithHook };
