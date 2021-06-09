@@ -1,7 +1,7 @@
 # preact-lib
 
-# install dependencies
+install dependencies
 npm install
 
-# build for production with minification
+build for production with minification
 npm run build
