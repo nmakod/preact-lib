@@ -35,10 +35,9 @@ let options = {
   // Pass your App ID here.
   appId: "Your App ID",
   // Set the channel name.
-  channel: "rymIqKIQfI",
+  channel: "CHANNEL",
   // Pass your temp token here.
-  token:
-    "0060b6f87fbf33e499fa4ac29aec04493acIABqO3rfPfADlzamUMmdDlRXgyy7RA9H1sbOplop8tTQ9YQc048AAAAAIgCEIB5KCebBYAQAAQApIcFgAgApIcFgAwApIcFgBAApIcFg",
+  token: "YOUR_TOKEN",
   // Set the user ID.
   uid: 123456,
 };
